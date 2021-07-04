@@ -86,6 +86,7 @@ h2 {
 @media all and (max-width: 650px) {
     .main-container {
       text-align: center;
+      width: 100%;
     }
   
     .content-container {
