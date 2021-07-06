@@ -2,12 +2,13 @@ body {
     background-color: hsl(233, 47%, 7%);
     color: hsla(0, 0%, 100%, 0.75);
     font-family: 'Inter', sans-serif;
-    font-size: 15px;
+    font-size: 17px;
     margin: 0;
 }
 
 h1 {
     color: hsl(0, 0%, 100%);
+    font-size: 40px;
 }
 
 h2 {
@@ -19,9 +20,9 @@ h2 {
     border-radius: 10px;
     display: flex;
     flex-wrap: wrap;
-    margin: 200px auto;
+    margin: 100px auto;
     overflow: hidden;
-    width: 60%;
+    width: 75%;
 }
 
 .img-container {
@@ -39,7 +40,8 @@ h2 {
 
 .content-container {
     flex: 1;
-    padding: 50px 140px 60px 80px;
+    padding: 50px 50px;
+    /* padding: 50px 140px 60px 80px; */
 }
 
 .main-content h1 {
