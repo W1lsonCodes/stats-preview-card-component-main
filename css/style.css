@@ -20,7 +20,7 @@ h2 {
     border-radius: 10px;
     display: flex;
     flex-wrap: wrap;
-    margin: 100px auto;
+    margin: 200px auto;
     overflow: hidden;
     width: 75%;
 }
@@ -116,6 +116,7 @@ h2 {
 .attribution { 
     font-size: 11px;
     text-align: center;
+    margin-top: 50px;;
 }
 
 .attribution a {
